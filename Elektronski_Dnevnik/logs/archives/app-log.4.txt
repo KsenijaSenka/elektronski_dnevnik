@@ -1,0 +1,1 @@
+2018-12-30 14:13:17.6115|WARN|Elektronski_Dnevnik.Controllers.UcenikController|Pokušaj registracije

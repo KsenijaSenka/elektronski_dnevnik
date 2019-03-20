@@ -1,0 +1,1 @@
+2019-01-29 19:46:36.6102|INFO|Elektronski_Dnevnik.Repositories.AuthRepository|User created a new account with password.

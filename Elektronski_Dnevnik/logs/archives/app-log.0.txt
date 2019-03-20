@@ -1,0 +1,1 @@
+2019-02-08 20:49:02.9543|WARN|Elektronski_Dnevnik.Controllers.UcenikController|Administrator je obrisao ucenika.

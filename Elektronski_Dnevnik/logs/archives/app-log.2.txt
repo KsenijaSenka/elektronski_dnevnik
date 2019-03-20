@@ -1,0 +1,2 @@
+2019-02-01 22:04:04.4054|INFO|Elektronski_Dnevnik.Controllers.AccountController|User created a new account with password.
+2019-02-01 22:09:40.5568|INFO|Elektronski_Dnevnik.Controllers.AccountController|AdminUser created a new account with password.
