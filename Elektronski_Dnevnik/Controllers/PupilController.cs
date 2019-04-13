@@ -26,7 +26,7 @@ namespace Elektronski_Dnevnik.Controllers
 
         
 
-        [Authorize(Roles ="teacher")]
+        //[Authorize(Roles ="teacher")]
         [Route("")]
         [HttpGet]
         public List<PupilDTO> GetPupils()

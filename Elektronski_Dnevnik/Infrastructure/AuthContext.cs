@@ -11,7 +11,7 @@ namespace Elektronski_Dnevnik.Infrastructure
 {
     public class AuthContext : IdentityDbContext<ApplicationUser>
     {
-        public AuthContext() : base("UserManagementContext70")
+        public AuthContext() : base("UserManagementContext71")
         {
             //Database.SetInitializer(new DropCreateDatabaseIfModelChanges<AuthContext>());
             Database.SetInitializer<AuthContext>(new InitializeWithDefaultValues());
